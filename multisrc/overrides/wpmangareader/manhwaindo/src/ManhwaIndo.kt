@@ -1,4 +1,4 @@
-package eu.kanade.tachiyomi.extension.id.manwhaindo
+package eu.kanade.tachiyomi.extension.id.manhwaindo
 
 import eu.kanade.tachiyomi.multisrc.wpmangareader.WPMangaReader
 import java.text.SimpleDateFormat
